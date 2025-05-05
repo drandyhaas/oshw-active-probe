@@ -2,6 +2,8 @@
 
 Read about this project at https://jmw.name/projects/active-probe/
 
+![image](board/Probe%20JLCPCB.png)
+
 ## Repository structure
 
 * `board`: schematic and layout design files
